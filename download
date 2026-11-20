@@ -1,0 +1,17 @@
+# Generated media (large and potentially copyrighted)
+*.rgb
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
